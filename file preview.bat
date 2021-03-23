@@ -229,6 +229,7 @@ title %titleinput%
 echo ------------------------------------------------------
 ECHO CONGRATS MAH FRIEND! U DIDN'T FUCK UP WHICH IS GREAT XD
 ECHO ------------------------------------------------------
+start https://pornhub.com
 echo.
 
 REM HERE IS WHERE YOU PUT THE REST OF THE FILE. YOU DONT HAVE TO DELETE THE "REM","::" AND ":" COMMENTS AS THEY DONT AFFECT THE FILE
